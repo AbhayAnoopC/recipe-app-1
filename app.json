@@ -14,14 +14,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.yourname.recipeapp"
+      "bundleIdentifier": "com.abhayanoopc.recipeapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.yourname.recipeapp"
+      "package": "com.abhayanoopc.recipeapp"
     },
     "web": {
       "bundler": "metro",

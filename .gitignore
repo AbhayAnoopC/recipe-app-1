@@ -4,3 +4,16 @@
 
 expo-env.d.ts
 # @end expo-cli
+
+# dependencies
+node_modules/
+
+# expo
+.expo/
+dist/
+web-build/
+
+# secrets
+.env
+.env.*
+!.env.example
